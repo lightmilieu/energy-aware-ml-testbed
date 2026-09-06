@@ -8,6 +8,8 @@ README: Nuclear-Aware AI Compute Energy Simulator: A Hardware-in-the-Loop Digita
 
 Code
 
-Methods
+The code (only BERT and RNN models) are IN PROGRESS of being written and are based on learning resources from HUSAI Bootcamp for highschool students.
 
 References
+
+[HUSAI Bootcamp](https://ai.hcs.harvard.edu/) and Frontiers track [D1C1VC Bootcamp Neural Network](https://colab.research.google.com/drive/1cESttSb2XtU-921VL5NuCl0gJQ7mg51R?authuser=1), [D2C1VC - NLP Classification Student](https://colab.research.google.com/drive/1JJ1fOAgFGNkAuhuEtOWtjeAf3c1VlAZY?authuser=1), [D3C1VC - CNN Solutions](https://colab.research.google.com/drive/1XeY_ctaDpUtYfo6SzoPQB0hGTrHCfIgp?authuser=1)
